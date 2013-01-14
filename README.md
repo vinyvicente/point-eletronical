@@ -1,4 +1,4 @@
-point-eletronical
+Point Eletronical
 =================
 
-Eletronical Point
+Author: Vinicius Vicente de Oliveira <vinyvicente@gmail.com>
