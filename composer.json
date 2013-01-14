@@ -1,5 +1,7 @@
 {
     "require": {
-        "zendframework/zendframework1": "1.12.1"
+        "zendframework/zendframework1": "1.12.1",
+        "twitter/bootstrap": "dev-master",
+        "lucifurious/yii": "dev-master"
     }
 }
